@@ -14,7 +14,7 @@ let powerUpTimer = 0;
 const emojis = {
   head: '🐸',
   body: '🟩',
-  food: ['🍎', '🍌', '🍇', '🍉'],
+  food: ['🍎', '🍌','🍓','🍇', '🍉'],
   star: '⭐',
   poison: '☠️'
 };
